@@ -1,6 +1,6 @@
 #README
 # Smart_Grid
-This is examples of program with was created for Smart_Grid_Technology
+This is examples of program with was created for Smart_Grid_Technology /n
 State biotechnological univercity
 Department of Power Supply and Energy Management
 
